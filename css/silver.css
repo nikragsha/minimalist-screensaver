@@ -1,0 +1,18 @@
+body {
+    background-color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#clock {
+  font-size: 55px;
+  font-family: 'Trebuchet MS', sans-serif;
+  color: white;
+}
+
